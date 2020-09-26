@@ -23,7 +23,7 @@ On submission of the quiz by clicking "Submit Quiz" button, Total Score of the u
 ## Deployment guide
 ### Prerequisites
 To begin, you will need:
-* Power Apps Studio
+* Power Apps Studio (https://make.powerapps.com/)
 * SharePoint Online
 * Office 365 Groups connector
 * A copy of QuizApp zip package. Link to [QuizApp package](https://github.com/swatiarora11/QuizApp/blob/master/Deployment/QuizApp.zip)
